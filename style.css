@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;color: blueviolet;
+}
+header{
+     background-color:blanchedalmond;
+     text-decoration
+    
+}
+main h1{
+     color:blueviolet;
+    background-color:darkturquoise;
+padding: 20px;
+}
+
+footer{
+    background-color:blueviolet;
+    color:burlywood;
+    padding: 20px;
+}
+
+
+nav{
+    background-color:black; 
+} 
+
+
+nav a{
+    text-decoration: none;
+    color:blue;
+    padding: 20px;
+}  
+
+main p{ 
+    border:5px dashed silver;
+    padding:10px;
+    background-color:gold;
+    border-radius:60px;
+}
+
+main{
+   padding:20px;
+   font-size:20px; 
+}
+
+a {
+   background-color: cornflowerblue;
+   padding:8px;
+   border-radius:6px;
+   color: darkslateblue;
+   text-decoration:deepskyblue ;
+}
